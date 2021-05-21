@@ -1,0 +1,23 @@
+header {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  padding: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+ 
+}
+.header-content {
+  display: flex;
+  align-items: center;
+  width: 80%;
+ 
+}
+
+.logo {
+  width: 40px;
+  margin-right: 20px;
+
+}
+.name {
+  color: #d02727;
+}
